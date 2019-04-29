@@ -2338,6 +2338,11 @@ input, select, textarea {
 
 /* custom stuff */
 
+.samsponsorimage img {
+	max-width: 250px;
+	max-height: 250px;
+}
+
 .samayimage img {
 	height: 300px;
 	width: auto;
